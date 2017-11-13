@@ -1,0 +1,31 @@
+Mon Nov 13 11:15:50 WET 2017 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Nov 13 11:16:33 WET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015f-b517-b256-ffffee282c92 
+on database directory /home/dev/NetBeansProjects/db/LoginDB with class loader sun.misc.Launcher$AppClassLoader@4d7e1886 
+Loaded from file:/home/dev/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-8u151-b12-0ubuntu0.17.10.2-b12
+user.dir=/home/dev/glassfish-4.1.1/javadb
+os.name=Linux
+os.arch=amd64
+os.version=4.13.0-16-generic
+derby.system.home=/home/dev/NetBeansProjects/db
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Nov 13 11:16:35 WET 2017:
+Shutting down instance a816c00e-015f-b517-b256-ffffee282c92 on database directory /home/dev/NetBeansProjects/db/LoginDB with class loader sun.misc.Launcher$AppClassLoader@4d7e1886 
+Mon Nov 13 11:16:35 WET 2017 Thread[DRDAConnThread_3,5,main] (DATABASE = LoginDB), (DRDAID = {2}), Database 'LoginDB' shutdown.
+----------------------------------------------------------------
+Mon Nov 13 11:16:43 WET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance ed8940a7-015f-b517-b256-ffffee282c92 
+on database directory /home/dev/NetBeansProjects/db/LoginDB with class loader sun.misc.Launcher$AppClassLoader@4d7e1886 
+Loaded from file:/home/dev/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-8u151-b12-0ubuntu0.17.10.2-b12
+user.dir=/home/dev/glassfish-4.1.1/javadb
+os.name=Linux
+os.arch=amd64
+os.version=4.13.0-16-generic
+derby.system.home=/home/dev/NetBeansProjects/db
+Database Class Loader started - derby.database.classpath=''
